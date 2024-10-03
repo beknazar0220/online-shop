@@ -5,7 +5,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import SignUp from "./pages/SignUp";
 import Servis from "./pages/Servis";
-import Index from "./practika";
+import Index from "./practika/Index";
 import Sign from "./pages/Sign";
 import DetailProduct from "./pages/DetailProduct";
 import NotFound from "./pages/NotFound";
