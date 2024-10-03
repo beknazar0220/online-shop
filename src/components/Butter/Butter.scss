@@ -1,0 +1,58 @@
+.about{ 
+    width: 100%;
+    height: 100%;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+
+    .butter{
+    display: flex;
+    }
+
+    .butter-text h1{
+        font-weight: 700;
+    }
+
+    .butter-text{
+        color: black;
+        width: 450px;
+        margin-top: 150px;
+        height: 100%;
+        background-color: #fff;
+    }
+
+
+    .butter-image img {
+        width: 760px;
+        height: 600px;  
+    }
+
+    .butter-corusel img{
+        width: 1200px;
+        height: 564px;
+        margin-top: 40px;
+    }
+
+    .bi{
+        display: flex;
+        margin-top: 100px;
+    }
+    .bi img{
+        background-color: #fff;
+        width: 300px;
+    }
+
+    .mini{
+        width: 1200px;
+        height: 300px;
+        background-color: #fff;
+        border: 2px solid #fff;
+    }
+
+    .mini img{
+        width: 943px;
+        height: 161px;
+        margin-left: 120px;
+        margin-top: 100px;
+    }
+}

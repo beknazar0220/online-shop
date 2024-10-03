@@ -1,0 +1,60 @@
+.box-product {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin-left: 120px;
+    margin-top: -415px;
+
+    img{
+        width: 400px;
+        height: 380px;
+    }
+}
+
+
+.box-images img {
+    width: 150px;
+    height: 150px;
+}
+
+.box-image img {
+    width: 300px;
+    height: 250px;
+}
+
+.plus{
+    display: flex;
+}
+
+.plus button{
+    width: 30px;
+    height: 25px;
+}
+
+.plus p{
+    text-align: center;
+    width: 50px;
+    height: 25px;
+    border: 2px solid rgb(30, 30, 30);
+}
+
+.image-map{
+    display: grid;
+    grid-template-columns: repeat(1fr);
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.image-map img{
+    width: 100px;
+    height: 96px;
+}
+
+.size{
+    display: flex;
+}
+
+.size button{
+    width: 20px;
+    height: 30px;
+}
